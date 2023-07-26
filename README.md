@@ -12,6 +12,9 @@ In this data analysis project, I undertook a comprehensive study posing as a jun
 
 ## Key Insights:
 
+![Rides by Type](https://github.com/timgreenli/Cyclistic-Bike-Share-Analysis/blob/main/visuals/rides_by_type_v2.svg)
+![Duration by Type](https://github.com/timgreenli/Cyclistic-Bike-Share-Analysis/blob/main/visuals/duration_by_type_v2.svg)
+
 **Ride Behavior Disparities:** Annual members tend to take shorter, more frequent rides for daily commuting, while casual riders opt for longer, leisurely rides during weekends and holidays.
 
 ## Data-Driven Recommendations:
