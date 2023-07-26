@@ -30,3 +30,5 @@ By employing robust data analysis and visualization techniques, the case study p
 
 ### Data and Code
 
+- [cyclistic-bike-share-analysis.ipynb](https://github.com/timgreenli/Cyclistic-Bike-Share-Analysis/blob/main/cyclistic-bike-share-analysis.ipynb)
+- [Data Repository](https://www.kaggle.com/datasets/timgreenli/divvy-tripdata-june-2022-to-may-2023)
